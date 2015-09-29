@@ -42,4 +42,5 @@ li {
   float: left;
   border-left: 1px #ccc solid;
   padding: 10px 20px;
+  position: relative;
 }

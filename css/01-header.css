@@ -36,11 +36,11 @@ body {
   border-right: 1px #ccc solid;
 }
 
-li:hover {
+.header li:hover {
   background: black;
 }
 
-li {
+.header li {
   float: left;
   border-left: 1px #ccc solid;
   padding: 10px 20px;

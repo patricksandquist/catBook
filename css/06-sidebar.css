@@ -7,7 +7,27 @@
   border: 1px black solid;
   background-image: url("./cat.jpg");
   margin-top: -120px;
+  overflow: hidden;
   border-radius: 5px;
+}
+
+.online{
+  position: absolute;
+  color: white;
+  /*border-top: 1px black solid;
+  border-bottom: 1px black solid;*/
+  box-shadow: 0px 0px 1px black;
+  background: #0c0;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 3px;
+  transform: rotate(-45deg);
+  display: block;
+  width: 105px;
+  padding: 5px;
+  text-align: center;
+  top:12px;
+  left: -28px;
 }
 
 .profile-info {

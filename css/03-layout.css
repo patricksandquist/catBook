@@ -22,6 +22,7 @@
 }
 
 .content-sidebar{
+  position: relative;
   float: left;
   padding: 20px;
   width: 200px;
